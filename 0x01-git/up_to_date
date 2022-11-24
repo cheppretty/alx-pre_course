@@ -1,2 +1,1 @@
-mkdir up_to_date >up_to_datete
-echo mkdir up_to_date
+git pull
